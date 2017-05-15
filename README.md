@@ -11,6 +11,7 @@ Building requires
 build-essential
 git
 libsdl1.2-dev
+chip-mali-userspace
 
 License
 ----
